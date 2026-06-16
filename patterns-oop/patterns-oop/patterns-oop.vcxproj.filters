@@ -4,5 +4,6 @@
     <ClCompile Include="src\abstract-factory.cpp" />
     <ClCompile Include="src\builder.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\factory-method.cpp" />
   </ItemGroup>
 </Project>

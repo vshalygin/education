@@ -32,6 +32,8 @@ namespace {
     {
         friend class character_builder;
 
+        character() = default;
+
     public:
         unsigned give_damage()
         {
