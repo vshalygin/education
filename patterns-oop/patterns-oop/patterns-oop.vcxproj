@@ -23,6 +23,7 @@
     <ClCompile Include="src\builder.cpp" />
     <ClCompile Include="src\factory-method.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\prototype.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
