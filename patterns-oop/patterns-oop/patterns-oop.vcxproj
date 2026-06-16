@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="src\abstract-factory.cpp" />
     <ClCompile Include="src\adaptor.cpp" />
+    <ClCompile Include="src\brigde.cpp" />
     <ClCompile Include="src\builder.cpp" />
     <ClCompile Include="src\factory-method.cpp" />
     <ClCompile Include="src\main.cpp" />
