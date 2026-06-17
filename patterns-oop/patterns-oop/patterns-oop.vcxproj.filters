@@ -10,5 +10,6 @@
     <ClCompile Include="src\adaptor.cpp" />
     <ClCompile Include="src\brigde.cpp" />
     <ClCompile Include="src\composite.cpp" />
+    <ClCompile Include="src\decorator.cpp" />
   </ItemGroup>
 </Project>
