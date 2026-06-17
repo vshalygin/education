@@ -27,6 +27,7 @@
     <ClCompile Include="src\decorator.cpp" />
     <ClCompile Include="src\facade.cpp" />
     <ClCompile Include="src\factory-method.cpp" />
+    <ClCompile Include="src\flyweight.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\prototype.cpp" />
     <ClCompile Include="src\singleton.cpp" />

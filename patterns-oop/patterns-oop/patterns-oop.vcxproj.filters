@@ -12,5 +12,6 @@
     <ClCompile Include="src\composite.cpp" />
     <ClCompile Include="src\decorator.cpp" />
     <ClCompile Include="src\facade.cpp" />
+    <ClCompile Include="src\flyweight.cpp" />
   </ItemGroup>
 </Project>
