@@ -9,5 +9,6 @@
     <ClCompile Include="src\singleton.cpp" />
     <ClCompile Include="src\adaptor.cpp" />
     <ClCompile Include="src\brigde.cpp" />
+    <ClCompile Include="src\composite.cpp" />
   </ItemGroup>
 </Project>

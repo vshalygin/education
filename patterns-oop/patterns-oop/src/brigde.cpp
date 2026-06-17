@@ -264,7 +264,7 @@ TEST_SUITE("Bridge") {
         }
     }
 
-    TEST_CASE("Radion") {
+    TEST_CASE("Radio") {
         radio radio;
         radio.turn_on();
         CHECK(radio.is_working());
