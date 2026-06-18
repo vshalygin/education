@@ -14,5 +14,6 @@
     <ClCompile Include="src\facade.cpp" />
     <ClCompile Include="src\flyweight.cpp" />
     <ClCompile Include="src\proxy.cpp" />
+    <ClCompile Include="src\chain-of-responsibility.cpp" />
   </ItemGroup>
 </Project>
