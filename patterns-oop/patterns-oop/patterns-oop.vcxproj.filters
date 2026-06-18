@@ -13,5 +13,6 @@
     <ClCompile Include="src\decorator.cpp" />
     <ClCompile Include="src\facade.cpp" />
     <ClCompile Include="src\flyweight.cpp" />
+    <ClCompile Include="src\proxy.cpp" />
   </ItemGroup>
 </Project>

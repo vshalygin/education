@@ -18,7 +18,6 @@ namespace {
         std::string style;
     };
     
-
     class character_properties_pool
     {
     public:
