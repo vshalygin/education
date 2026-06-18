@@ -24,6 +24,7 @@
     <ClCompile Include="src\brigde.cpp" />
     <ClCompile Include="src\builder.cpp" />
     <ClCompile Include="src\chain-of-responsibility.cpp" />
+    <ClCompile Include="src\command.cpp" />
     <ClCompile Include="src\composite.cpp" />
     <ClCompile Include="src\decorator.cpp" />
     <ClCompile Include="src\facade.cpp" />
