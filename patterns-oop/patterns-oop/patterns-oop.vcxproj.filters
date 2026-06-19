@@ -19,5 +19,6 @@
     <ClCompile Include="src\interpreter.cpp" />
     <ClCompile Include="src\iterator.cpp" />
     <ClCompile Include="src\mediator.cpp" />
+    <ClCompile Include="src\memento.cpp" />
   </ItemGroup>
 </Project>
