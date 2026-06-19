@@ -33,6 +33,7 @@
     <ClCompile Include="src\interpreter.cpp" />
     <ClCompile Include="src\iterator.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\mediator.cpp" />
     <ClCompile Include="src\prototype.cpp" />
     <ClCompile Include="src\proxy.cpp" />
     <ClCompile Include="src\singleton.cpp" />
