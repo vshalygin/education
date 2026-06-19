@@ -35,6 +35,7 @@
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\mediator.cpp" />
     <ClCompile Include="src\memento.cpp" />
+    <ClCompile Include="src\observer.cpp" />
     <ClCompile Include="src\prototype.cpp" />
     <ClCompile Include="src\proxy.cpp" />
     <ClCompile Include="src\singleton.cpp" />
