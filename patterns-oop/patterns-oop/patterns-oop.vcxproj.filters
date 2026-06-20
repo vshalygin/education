@@ -23,5 +23,6 @@
     <ClCompile Include="src\observer.cpp" />
     <ClCompile Include="state.cpp" />
     <ClCompile Include="strategy.cpp" />
+    <ClCompile Include="template-method.cpp" />
   </ItemGroup>
 </Project>
