@@ -21,9 +21,9 @@
     <ClCompile Include="src\mediator.cpp" />
     <ClCompile Include="src\memento.cpp" />
     <ClCompile Include="src\observer.cpp" />
-    <ClCompile Include="state.cpp" />
-    <ClCompile Include="strategy.cpp" />
-    <ClCompile Include="template-method.cpp" />
-    <ClCompile Include="visitor.cpp" />
+    <ClCompile Include="src\state.cpp" />
+    <ClCompile Include="src\strategy.cpp" />
+    <ClCompile Include="src\template-method.cpp" />
+    <ClCompile Include="src\visitor.cpp" />
   </ItemGroup>
 </Project>

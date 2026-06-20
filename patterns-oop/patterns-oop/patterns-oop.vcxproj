@@ -39,10 +39,10 @@
     <ClCompile Include="src\prototype.cpp" />
     <ClCompile Include="src\proxy.cpp" />
     <ClCompile Include="src\singleton.cpp" />
-    <ClCompile Include="state.cpp" />
-    <ClCompile Include="strategy.cpp" />
-    <ClCompile Include="template-method.cpp" />
-    <ClCompile Include="visitor.cpp" />
+    <ClCompile Include="src\state.cpp" />
+    <ClCompile Include="src\strategy.cpp" />
+    <ClCompile Include="src\template-method.cpp" />
+    <ClCompile Include="src\visitor.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
