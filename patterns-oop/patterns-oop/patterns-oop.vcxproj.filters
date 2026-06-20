@@ -24,5 +24,6 @@
     <ClCompile Include="state.cpp" />
     <ClCompile Include="strategy.cpp" />
     <ClCompile Include="template-method.cpp" />
+    <ClCompile Include="visitor.cpp" />
   </ItemGroup>
 </Project>
