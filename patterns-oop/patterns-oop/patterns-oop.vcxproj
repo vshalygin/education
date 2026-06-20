@@ -40,6 +40,7 @@
     <ClCompile Include="src\proxy.cpp" />
     <ClCompile Include="src\singleton.cpp" />
     <ClCompile Include="state.cpp" />
+    <ClCompile Include="strategy.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

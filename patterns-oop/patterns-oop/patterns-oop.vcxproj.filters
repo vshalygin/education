@@ -22,5 +22,6 @@
     <ClCompile Include="src\memento.cpp" />
     <ClCompile Include="src\observer.cpp" />
     <ClCompile Include="state.cpp" />
+    <ClCompile Include="strategy.cpp" />
   </ItemGroup>
 </Project>
