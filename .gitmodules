@@ -1,3 +1,6 @@
 [submodule "submodule/doctest"]
 	path = submodule/doctest
 	url = git@github.com:doctest/doctest.git
+[submodule "submodule/libpqxx"]
+	path = submodule/libpqxx
+	url = git@github.com:jtv/libpqxx.git

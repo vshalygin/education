@@ -6,3 +6,4 @@ Release
 build
 cmake-check-ninja
 cmake-check
+out
